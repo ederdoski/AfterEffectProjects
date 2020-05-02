@@ -1,0 +1,12 @@
+El registro de procesamiento de Adobe After Effects v14.0 Windows 64 para el procesamiento del proyecto "animacionCafe.aep"
+
+ se inició en 7/1/2020 a las 20:03:16
+
+  7/1/2020 20:03:16: Iniciando composición "LoopFinal".
+
+  Salida a: C:\Users\ederd\Desktop\LoopFinal\LoopFinal_[#####].png    7/1/2020 20:03:34: Composición finalizada "LoopFinal".
+
+
+  Tiempo total transc.: 18 segundos
+Registro cerrado en 7/1/2020 a las 20:03:34
+

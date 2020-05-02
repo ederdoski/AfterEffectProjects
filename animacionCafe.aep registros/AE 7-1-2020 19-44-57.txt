@@ -1,0 +1,12 @@
+El registro de procesamiento de Adobe After Effects v14.0 Windows 64 para el procesamiento del proyecto "animacionCafe.aep"
+
+ se inició en 7/1/2020 a las 19:44:57
+
+  7/1/2020 19:44:57: Iniciando composición "PersonajeCompleto".
+
+  Salida a: C:\Users\ederd\Desktop\PersonajeCompleto.avi    7/1/2020 19:44:58: Composición finalizada "PersonajeCompleto".
+
+
+  Tiempo total transc.: 1 segundos
+Registro cerrado en 7/1/2020 a las 19:44:58
+

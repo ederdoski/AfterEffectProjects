@@ -1,0 +1,12 @@
+El registro de procesamiento de Adobe After Effects v14.0 Windows 64 para el procesamiento del proyecto "Militar.aep"
+
+ se inició en 3/2/2020 a las 16:02:32
+
+  3/2/2020 16:02:32: Iniciando composición "CientificoAnimacion".
+
+  Salida a: C:\Users\ederd\Desktop\CientificoAnimacion.avi    3/2/2020 16:02:41: Composición finalizada "CientificoAnimacion".
+
+
+  Tiempo total transc.: 9 segundos
+Registro cerrado en 3/2/2020 a las 16:02:42
+
